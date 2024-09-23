@@ -23,24 +23,36 @@ JavaScript: Real-time user interactions and dynamic updates.
 SQL: Database management for storing and querying user data.
 Installation
 Clone the Repository:
+bash
+Copy code
 git clone https://github.com/yourusername/jarvis-ai.git
 Navigate to the Project Directory:
+bash
+Copy code
 cd jarvis-ai
 Install Dependencies:
 Python:
+bash
+Copy code
 pip install -r requirements.txt
 JavaScript Libraries:
+bash
+Copy code
 npm install
 Setup Database:
 Create and configure your database using the provided SQL scripts.
 Usage
 Start the Backend Server:
+bash
+Copy code
 python app.py
 Launch the Frontend: Open index.html in your preferred browser.
 Interact with Jarvis AI:
 Use the command input to interact with the AI.
 Jarvis will respond based on your queries and commands.
 Project Structure
+graphql
+Copy code
 jarvis-ai/
 │
 ├── app.py                   # Main Python application file
@@ -67,5 +79,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 For any inquiries or issues, please reach out to maddoxer143@gmail.com.
-
-Thank you for using Jarvis AI! We hope this project helps you build powerful and interactive applications.
