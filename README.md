@@ -1,6 +1,6 @@
-# Jarvis AI
+# Virtual-Assistant-JARVIS
 
-Jarvis AI is a sophisticated software application designed to provide intelligent interactions and efficient data management using a combination of Python, HTML, CSS, SQL, and JavaScript. This application leverages advanced programming techniques to deliver a user-friendly and responsive interface, real-time dynamic interactions, and powerful backend functionalities.
+Virtual-Assistant-JARVIS is a sophisticated software application designed to provide intelligent interactions and efficient data management using a combination of Python, HTML, CSS, SQL, and JavaScript. This application leverages advanced programming techniques to deliver a user-friendly and responsive interface, real-time dynamic interactions, and powerful backend functionalities.
 
 ## Table of Contents
 
@@ -32,11 +32,11 @@ Jarvis AI is a sophisticated software application designed to provide intelligen
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/madhusudhanreddy2003/Jarvis-AI-Assistant.git
+   git clone https://github.com/Poojitha3003/Virtual-Assistant-JARVIS.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd jarvis-ai
+   cd Virtual-Assistant-JARVIS
    ```
 3. **Install Dependencies**:
    - Python:
@@ -54,31 +54,50 @@ Jarvis AI is a sophisticated software application designed to provide intelligen
 
 1. **Start the Backend Server**:
    ```bash
-   python app.py
+   python main.py
    ```
 2. **Launch the Frontend**:
    Open `index.html` in your preferred browser.
-3. **Interact with Jarvis AI**:
+3. **Interact with Virtual-Assistant-JARVIS**:
    - Use the command input to interact with the AI.
    - Jarvis will respond based on your queries and commands.
 
 ## Project Structure
 
 ```
-jarvis-ai/
+Virtual-Assistant-JARVIS/
 │
-├── app.py                   # Main Python application file
-├── templates/               # HTML templates
-│   └── index.html           # Main frontend file
-├── static/                  # Static files (CSS, JavaScript)
+├── main.py                   # Main Python application file
+├── engine/               
+│   └── features.py           # functions of jarvis
+│   └── command.py            # logic for understanding the queries
+│   └── voice.py              # function for Javris voice
+│   └── db.py                 # python program for storing contacts
+│   └── config.py             # stores the name of Assistant and wake up command
+│   └── helper.py             # logic for removing unwanted words in queries
+├── www/                      # frontend
+│   ├── html/
+│   └── index.html            # HTML templates
 │   ├── css/
-│   │   └── styles.css       # Custom styles
+│   │   └── styles.css        # Custom styles for chatbot
 │   └── js/
-│       └── scripts.js       # JavaScript logic
-├── database/                # Database files and SQL scripts
-│   └── schema.sql           # Database schema
-├── requirements.txt         # Python dependencies
-└── README.md                # Project README
+│       └── script.js         # JavaScript logic
+│       └── controller.js     # JavaScript logic
+│       └── main.js           # JavaScript logic
+├── database/                 # Database files and SQL scripts
+│   └── jarvis.sql            # Database schema
+├── assests/              
+│   └── audio/
+│       └── start_sound
+│   └── img/
+│       └── jarvis logo
+│   └── vendore/
+│       └── animate.css           # ui animations
+│       └── style.css             # ui styles
+│       └── jquery.fittext.js     # text styles
+│       └── jquery.lettering.js   # lettering adjustments
+├── requirements.txt              # Python dependencies
+└── README.md                     # Project README
 ```
 
 ## Contributing
@@ -90,14 +109,10 @@ Contributions are welcome! Please follow the steps below:
 3. Make your changes.
 4. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries or issues, please reach out to [maddoxer143@gmail.com.com](mailto:maddoxer143@gmail.com).
+For any inquiries or issues, please reach out to [poojithapooji701@gmail.com.com](mailto:poojithapooji701@gmail.com).
 
 ---
 
-Thank you for using Jarvis AI! We hope this project helps you build powerful and interactive applications.
+Thank you for using Virtual-Assistant-JARVIS! We hope this project helps you build powerful and interactive applications.
