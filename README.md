@@ -117,4 +117,4 @@ For inquiries or support, reach out to:
 
 ---
 
-Thank you for using Jarvis-AI-Assistant! We hope this project helps you build powerful and interactive applications.
+Thank you for using Jarvis-AI-Assistant! I hope this project helps you build powerful and interactive applications.
