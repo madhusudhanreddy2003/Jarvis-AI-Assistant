@@ -1,4 +1,4 @@
-# Virtual-Assistant-JARVIS
+# Jarvis-AI-Assistant
 
 Virtual-Assistant-JARVIS is a sophisticated software application designed to provide intelligent interactions and efficient data management using a combination of Python, HTML, CSS, SQL, and JavaScript. This application leverages advanced programming techniques to deliver a user-friendly and responsive interface, real-time dynamic interactions, and powerful backend functionalities.
 
@@ -32,11 +32,11 @@ Virtual-Assistant-JARVIS is a sophisticated software application designed to pro
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Poojitha3003/Virtual-Assistant-JARVIS.git
+   git clone https://github.com/madhusudhanreddy2003/Jarvis-AI-Assistant.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd Virtual-Assistant-JARVIS
+   cd Jarvis-AI-Assistant
    ```
 3. **Install Dependencies**:
    - Python:
@@ -111,8 +111,8 @@ Contributions are welcome! Please follow the steps below:
 
 ## Contact
 
-For any inquiries or issues, please reach out to [poojithapooji701@gmail.com.com](mailto:poojithapooji701@gmail.com).
+For any inquiries or issues, please reach out to [maddoxer143@gmail.com.com](mailto:maddoxer143@gmail.com).
 
 ---
 
-Thank you for using Virtual-Assistant-JARVIS! We hope this project helps you build powerful and interactive applications.
+Thank you for using Jarvis-AI-Assistant! We hope this project helps you build powerful and interactive applications.
