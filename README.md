@@ -111,8 +111,9 @@ Contributions are welcome! Please follow the steps below:
 
 ## Contact
 
-For any inquiries or issues, please reach out to [maddoxer143@gmail.com.com](mailto:maddoxer143@gmail.com).
-- Kethari Madhu Sudhan Reddy
+For inquiries or support, reach out to:  
+**Email**: [maddoxer143@gmail.com](mailto:maddoxer143@gmail.com)  
+**Name**: Kethari Madhu Sudhan Reddy
 
 ---
 
